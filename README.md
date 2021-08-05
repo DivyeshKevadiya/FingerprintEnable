@@ -1,1 +1,1 @@
-# FingerprintEnable
+# Fingerprint app
